@@ -15,7 +15,6 @@ abasie
 abasourdi
 abasourdir
 abasourdissement
-abat-jour
 abats
 abattage
 abatteur
@@ -6992,7 +6991,6 @@ diluer
 dilution
 diluvien
 dimanche
-dimanche des rameaux
 dimanches
 dimension
 dimensions
@@ -22945,7 +22943,6 @@ HYDROTHERAPIE
 HYDROXYDE
 HYDROXYMETHYLFURFURAL
 HYDROXYPROPYLMÉTHYLCELLULOSE
-IMMUNOCHIMIOTHÉRAPIE
 IMMUNOFLUORESCENCE
 IMMUNOHISTOCHIMIQUE
 IMMUNOPRÉCIPITATION
