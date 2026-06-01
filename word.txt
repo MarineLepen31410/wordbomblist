@@ -4040,16 +4040,12 @@ chevelure
 Chevenement
 cheveu
 cheveux
-cheveux en brosse
-cheveux noirs
 cheville
 chevre
 chevreau
 chevres
 chewing-gum
 chez
-chez nous
-chez soi
 chiant
 chiard
 chic
@@ -4862,7 +4858,6 @@ confedere
 confer
 confere
 conference
-conference de presse
 conferences
 conferencier
 conferer
@@ -5491,21 +5486,11 @@ coulisses
 couloir
 couloirs
 coup
-coup de feu
-coup de foudre
-coup de froid
-coup de griffe
-coup de pied
-coup de vent
-coup d'Etat
-coup d'oeil
-coup monte
 coupable
 coupables
 coupant
 coupe
 coupe
-coupe de cheveux
 coupee
 coupees
 couper
@@ -5521,7 +5506,6 @@ coups
 coupure
 coupures
 cour
-cour de justice
 courage
 courageuse
 courageusement
